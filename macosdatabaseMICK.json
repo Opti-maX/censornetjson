@@ -1,49 +1,37 @@
 {
     "processes": [
-{
+        {
             "name": "com.apple.WebKit.Networking",
             "md5": ""
-},
-{
+        },
+        {
             "name": "Google Chrome",
             "md5": ""
-},
-{
-    "name": "Google Chrome Helper",
-    "md5": ""
-},
-{
+        },
+        {
+            "name": "Google Chrome Helper",
+            "md5": ""
+        },
+        {
             "name": "Firefox",
             "md5": ""
-},
-{
+        },
+        {
             "name": "Opera",
             "md5": ""
-},
-{
+        },
+        {
             "name": "Opera Helper",
             "md5": ""
-},
-{
+        },
+        {
             "name": "Microsoft Teams",
             "md5": ""
-},
-{
+        },
+        {
             "name": "Microsoft Teams Helper",
             "md5": ""
-},
-{
-    "name": "dgwipd",
-    "md5": ""
-},
-{
-"name": "Brave Browser",
-"md5": ""
-},
-{
-"name":"Brave Browser Helper",
-"md5": ""
-}
-
+        }
+       
     ]
 }
